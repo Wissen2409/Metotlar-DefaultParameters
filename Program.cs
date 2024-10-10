@@ -12,6 +12,10 @@ Metot3(10,20);
 Metot3(10);
 
 
+// eğer kullanıcı çevre hesabında, ikinci paramtre olarak pi değeri dışında bir dğer girecekse girebilir
+// girmez ise default parametre ile pi sayısı zaten verildi.
+
+
 Cevre(5,5);
 
 // int tipinde parametre alan bir metot
@@ -40,3 +44,5 @@ static void Cevre(int yariCap,double pi=Math.PI){
   
   Console.WriteLine(2*pi-yariCap);
 }
+
+// metotlar konusu bir konu sonraya bırakılarak bitti : recursive metotlar

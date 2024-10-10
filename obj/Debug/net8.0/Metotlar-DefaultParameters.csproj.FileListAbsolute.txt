@@ -12,3 +12,4 @@
 /Users/emrahelis/Metotlar-DefaultParameters/obj/Debug/net8.0/Metotlar-DefaultParameters.pdb
 /Users/emrahelis/Metotlar-DefaultParameters/obj/Debug/net8.0/Metotlar-DefaultParameters.genruntimeconfig.cache
 /Users/emrahelis/Metotlar-DefaultParameters/obj/Debug/net8.0/ref/Metotlar-DefaultParameters.dll
+/Users/emrahelis/Metotlar-DefaultParameters/obj/Debug/net8.0/Metotlar-DefaultParameters.sourcelink.json
